@@ -15,7 +15,7 @@ function between(a,b){
             numbers.push(i)
             
         }
-       console.log(numbers);
+    return numbers;
     }
 }
 between(1,4)
